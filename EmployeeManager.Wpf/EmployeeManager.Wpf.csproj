@@ -15,9 +15,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\EmploeeManager.ViewModel\EmployeeManager.ViewModel.csproj" />
     <ProjectReference Include="..\Employee.DataAccess\EmployeeManager.DataAccess.csproj" />
     <ProjectReference Include="..\EmployeeManager.Common\EmployeeManager.Common.csproj" />
+    <ProjectReference Include="..\EmployeeManager.ViewModel\EmployeeManager.ViewModel.csproj" />
   </ItemGroup>
 
 </Project>
